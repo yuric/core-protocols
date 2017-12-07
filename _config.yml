@@ -2,3 +2,18 @@ markdown: rdiscount
 # pygments: true
 permalink: pretty
 baseurl: /core-protocols/
+# Where things are
+destination:     ./docs
+data_dir:        _data
+# Translation
+languages:
+  en:
+    name: English
+    title: The Core Protocols
+    tagline: Team = Product
+    core_protocols: Core Protocols
+  pt-br:
+    name: Portugues
+    title: Os Protocolos Núcleo
+    tagline: Time = Retorno
+    core_protocols: Protocolos Núcleo

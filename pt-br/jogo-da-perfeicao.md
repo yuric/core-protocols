@@ -1,6 +1,6 @@
 ---
 title: Perfection game
-layout: en/protocol
+layout: pt-br/protocol
 ---
 # Perfection Game
 

@@ -1,6 +1,6 @@
 ---
 title: Investigate
-layout: en/protocol
+layout: pt-br/protocol
 ---
 # Investigate
 

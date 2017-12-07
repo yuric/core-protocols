@@ -1,15 +1,16 @@
-{% include header.html %}
+{% include en/header.html %}
         <section id="main-content">
             {{ content }}
         </section>
 
         <aside id="sidebar">
+            <p>The Core Protocols V. 3.03</p>
             {% include en/protocol-list.html %}
         </aside>
 
         <section id="copyright">
             <hr size="1" />
-            <p class="repo-owner"><a href="https://github.com/yuric/core-protocols">&#9400; The Core Protocols </a>were created by <a
+            <p class="repo-owner"><a href="https://github.com/yuric/core-protocols">&#9400; {{ page.core_protocols }} </a>were created by <a
                     href="http://www.mccarthyshow.com/">Jim and Michele McCarthy</a>. </p>
         </section>
 {% include footer.html %}

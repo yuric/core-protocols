@@ -1,6 +1,6 @@
 ---
 title: Pass (Unpass)
-layout: en/protocol
+layout: pt-br/protocol
 ---
 # Pass (Unpass)
 

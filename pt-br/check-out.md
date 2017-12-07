@@ -1,6 +1,6 @@
 ---
 title: Check Out
-layout: en/protocol
+layout: pt-br/protocol
 ---
 
 # Check Out

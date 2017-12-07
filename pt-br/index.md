@@ -1,9 +1,10 @@
 ---
-title: O Protocolo Nucleo
+title: Os Protocolos Núcleo
 layout: pt-br/main
 ---
-# Protocolo Nucleo
 
-Os sequintes Protocolos de Nucleo são composto de compromissos e protocolos.
+# Protocolos Núcleo
+
+Os sequintes Protocolos de Núcleo são composto de compromissos e protocolos.
 
 {% include pt-br/protocol-list.html %}

@@ -1,6 +1,6 @@
 ---
 title: Decider
-layout: en/protocol
+layout: pt-br/protocol
 ---
 # Decider
 

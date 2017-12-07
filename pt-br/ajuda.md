@@ -1,10 +1,14 @@
 ---
 title: Ask For Help
-layout: en/protocol
+layout: pt-br/protocol
 ---
-# Ask For Help
+# Ask For Help 
+
 
 The Ask For Help protocol allows you to efficiently make use of the skills and knowledge of others. Ask For Help is the act that catalyzes connection and shared vision. Use it continuously, before and during the pursuit of any result.
+{{ site.data.core_protocols }}
+{{ site.data }}
+{{ site.br_name }}
 
 ## Steps
 
