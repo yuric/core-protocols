@@ -4,7 +4,7 @@ layout: en/protocol
 ---
 # Perfection Game
 
-The Perfection Game protocol will support you in your desire to aggregate the best ideas. Use it whenever you desire to improve something you’ve created.
+The Perfection Game protocol will support you in your desire to aggregate the best ideas. Use it whenever you desire to improve on a perfomance or to improve something you’ve created.
 
 ## Steps
 
